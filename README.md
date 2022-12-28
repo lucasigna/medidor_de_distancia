@@ -1,6 +1,6 @@
 # Medidor de distancia
 
-![](https://github.com/lucasigna/medidor_de_distancia/blob/main/)
+![](https://github.com/lucasigna/medidor_de_distancia/blob/main/Fotos%20y%20videos/video_demo.gif)
 
 Este es un proyecto personal de un medidor de distancia. Utilicé un sensor ultrasónico para medir la distancia, un display LCD de 16x2 para mostrar los datos y toda la lógica la maneje con un ESP32. 
 
